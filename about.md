@@ -4,7 +4,7 @@ title: О нас
 permalink: /about/
 ---
 
-<amp-img src="{{ site.baseurl }}assets/images/pinklake.jpg" width="600" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/pinklake.jpg" width="1280" height="720" layout="responsive" alt="" class="mb3"></amp-img>
 
 Белоносец обыкновенный обычно обитает в районе озёр.
 Летом, когда вода прозрачна, прохладна и чиста, единственное, что может белоносца от озера отпугнуть, - это коряга.
@@ -15,6 +15,6 @@ permalink: /about/
 Слоупоки очень любят есть яблочки прямо из рук белоносца.
 В этом они чем-то похожи на лошадей.
 
-<amp-img src="{{ site.baseurl }}assets/images/apple.jpg" width="600" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/apple.jpg" width="960" height="1280" layout="responsive" alt="" class="mb3"></amp-img>
 
 В остальное время слоупоки чешут пузико и лежат в кроватке.
