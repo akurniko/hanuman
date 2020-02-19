@@ -2,7 +2,7 @@
 title: Моей маленькой фее
 description: Белоносцы, как и единороги, - создания вымышленные. Но не всегда...
 cover: assets/images/pargolake.jpg
-logo: assets/images/apple.jpg
+logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://akurniko.github.com" # the base hostname & protocol for your site
