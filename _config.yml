@@ -18,13 +18,9 @@ pagination:
   per_page: 5
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
 
 #Additional Pages
 about: about
-contact: contact
 privacy-policy: privacy-policy
 
 
